@@ -28,6 +28,8 @@ export default class EchartsTest extends  Component {
     /**
     JSON.parse(text)js
     JSON.stringify(json)
+    http://npm.taobao.org/package/react-json-view
+    https://www.cnblogs.com/soyxiaobi/p/9713814.html
     **/
 
     return (
